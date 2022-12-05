@@ -2,7 +2,6 @@ mmReIData
 ============
   `mmReIData`: Pedestrian re-identification dataset based on mmWave radio frequency signal.
   
-  `paper`:Person Re-Identification Based on Commercial FMCW Millimeter-Wave Radar
 
 Short Information
 ------------------
